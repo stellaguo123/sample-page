@@ -13,7 +13,7 @@ This is written in markdown language.
 >
 * Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
 
-#### Follow the [guide doc](Doc1.pdf) to submit your work. 
+#### Follow the [guide doc](doc1.pdf) to submit your work. 
 ---
 >Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
 
